@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42614478293",
+    "project_id": "infobytetech-assessment",
+    "storage_bucket": "infobytetech-assessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42614478293:android:6b28d9541b8f7b4dbd595c",
+        "android_client_info": {
+          "package_name": "com.example.infobyte_assign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42614478293-gm7ogvjiku1j2vd63151fsi1v6grieip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbagxIXAibTnGTi4cB6JZGsBcA74wrkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42614478293-gm7ogvjiku1j2vd63151fsi1v6grieip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
